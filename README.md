@@ -1,9 +1,9 @@
 # Minha Coleção – Django + React
 
 **Integrantes**
-- Henrique dos Santos – RA 11261104846
-- Pedro Telline – RA 11261105226
-- João – RA (preencher)
+- Henrique dos Santos –  11261104846
+- Pedro Telline – 11261105226
+- João Pedro Souza Rodrigues - 112611045834
 
 **Variante:** Livros (app `livros`, model `Livro`: `titulo`, `autor`, `ano`, `avaliacao`)
 
